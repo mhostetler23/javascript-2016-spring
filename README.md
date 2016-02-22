@@ -2,7 +2,6 @@
 
 ### Current class members
  * @brandonjp
- * @maicole
 
 Not much to see here yet, but I'll start by adding PDFs of the slides. 
 
