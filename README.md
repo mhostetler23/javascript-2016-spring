@@ -1,5 +1,7 @@
 # javascript-2016-spring
 
+add your @username by [editing this file](https://github.com/BloomingtonCodeSchool/javascript-2016-spring/edit/master/README.md)
+
 ### Current class members
  * @brandonjp
  * @maicole
