@@ -1,8 +1,10 @@
 ### javascript-2016-spring
 
 # Featuring...
- * @brandonjp
- * @maicole
+* @brandonjp
+* @maicole
+
+(Add your GitHub @username by [editing this file](https://github.com/BloomingtonCodeSchool/javascript-2016-spring/edit/master/README.md))
 
 
 # Weekly Challenges
@@ -15,7 +17,7 @@ Easy.  Create a GitHub account. [Start Here](http://github.com/join)
 Enhance the previous challenge by responding differently to the user based on their age next year.  For example: If the user will be younger than 15 next year, ask for their favorite color.  If the user will between 15 and 25, ask for their favorite movie.  If the user will be between 25 and 55, ask for their favorite book.
 [*Week 4 sample solution*](http://jsbin.com/metoxa/edit?html,js)
 #### Week 5
-Add your GitHub @username by [editing this file](https://github.com/BloomingtonCodeSchool/javascript-2016-spring/edit/master/README.md)
+Add your GitHub @username by [editing this file](https://github.com/BloomingtonCodeSchool/javascript-2016-spring/edit/master/README.md) (If you don't have permission to commit your changes, just try editing as normal and GitHub will guide you on creating a pull-request.)
 
 
 # Weekly Slides
